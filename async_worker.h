@@ -1,7 +1,6 @@
 #ifndef AW_ASYNC_WORKER_H
-#define AW_ASYNC_WORKER__H
+#define AW_ASYNC_WORKER_H
 
-#include "common.h"
 #include <uv.h>
 
 template <typename T, typename U>
