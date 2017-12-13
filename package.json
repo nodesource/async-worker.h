@@ -1,21 +1,28 @@
 {
-    "name" : "async-worker.h",
-    "version" : "0.0.0",
-    "description" : "Light C++ wrapper around libuv's uv_queue_work.",
-    "main" : "async-worker.h.js",
-    "repository" : {
-      "type" : "git",
-      "url" : "git://github.com/nodesource/async-worker.h.git"
-    },
-    "homepage" : "https://github.com/nodesource/async-worker.h",
-    "keywords": [ "libuv", "threads", "threading", "async", "C++", "native" ] ,
-    "author" : {
-      "name" : "Thorsten Lorenz",
-      "email" : "thlorenz@gmx.de",
-      "url" : "http://thlorenz.com"
-    },
-    "license" : {
-      "type": "MIT",
-      "url": "https://github.com/nodesource/async-worker.h/blob/master/LICENSE"
-    }
+  "name": "async-worker.h",
+  "version": "1.0.0",
+  "description": "Light C++ wrapper around libuv's uv_queue_work.",
+  "main": "async-worker.h.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodesource/async-worker.h.git"
+  },
+  "homepage": "https://github.com/nodesource/async-worker.h",
+  "keywords": [
+    "libuv",
+    "threads",
+    "threading",
+    "async",
+    "C++",
+    "native"
+  ],
+  "author": {
+    "name": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/nodesource/async-worker.h/blob/master/LICENSE"
+  }
 }
