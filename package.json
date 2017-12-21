@@ -1,6 +1,6 @@
 {
   "name": "async-worker.h",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Light C++ wrapper around libuv's uv_queue_work.",
   "files": [
     "async_worker.h",
