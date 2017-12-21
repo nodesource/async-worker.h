@@ -2,6 +2,10 @@
   "name": "async-worker.h",
   "version": "1.0.1",
   "description": "Light C++ wrapper around libuv's uv_queue_work.",
+  "files": [
+    "async_worker.h",
+    "include-dirs.js"
+  ],
   "main": "async-worker.h.js",
   "repository": {
     "type": "git",
